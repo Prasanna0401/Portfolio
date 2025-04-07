@@ -1,0 +1,1 @@
+Welcome to my portfolio! I’m Prasanna venkatesh, a MERN stack developer. Here you can find some of my projects and the technologies I use.
